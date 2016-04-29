@@ -49,9 +49,9 @@ body{padding-top:60px;}
 	left:50%;
 	right:50%;
 	bottom: 0;
-	background:#FF0000;
-	height:100%;
-	opacity:0.1;
+	background: #1124A9;
+    	height: 100%;
+	 opacity: 0.2;
 	-webkit-transition-property: left, right;
 	transition-property: left, right;
 	-webkit-transition-duration: 0.3s;
